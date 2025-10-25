@@ -70,5 +70,7 @@ npm run lint
 ## 👨‍💻 Author
 
 Bagas Dwiprasandi
-Fullstack Web Developer
+
+**Fullstack Web Developer**
+
 ✨ “Code, Learn, and Create Impact.”
