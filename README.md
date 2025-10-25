@@ -41,8 +41,8 @@ Includes an animated countdown timer, progress visualization, and result effects
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/quiz_apps_bagas.git
-cd quiz_apps_bagas
+git clone https://github.com/bagasdprs/Quiz-Apps-REACTJS.git
+cd Quiz-Apps-REACTJS
 npm install
 npm react-router-dom react-confetti react-canvas-confetti react-circular-progressbar framer-motion lottie-react react-hot-toast axios classnames
 npm run dev
